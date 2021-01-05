@@ -1,0 +1,23 @@
+{
+  "name": "mongodb-mocha",
+  "version": "1.0.0",
+  "description": "this repository to tes mongoDB by using Mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASHARALORAN96/MongoDB-Mocha.git"
+  },
+  "author": "As-har Oran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ASHARALORAN96/MongoDB-Mocha/issues"
+  },
+  "homepage": "https://github.com/ASHARALORAN96/MongoDB-Mocha#readme",
+  "dependencies": {
+    "mocha": "^8.2.1",
+    "mongoose": "^5.11.8"
+  }
+}
